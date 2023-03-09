@@ -1,30 +1,22 @@
-# This is a large heading
+# Habib Hadweh
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in **Beit Jala, PALESTINE**.
 
-- This is
-- an unordered
-- list
+##Hobbies##
 
-1. This is
-2. an ordered
-3. list
+- Football
+- Video Games
+- Board Games
 
-Here is `some code` in the middle of a sentence.
+##Favourite Food##
 
-```
-This is
-a block
-of code
-```
+1. Wara2
+2. Burgers
+3. Knafeh
 
-Here is how you make [a link](https://www.wikipedia.org/).
+##Contact##
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+The best way to get in touch with me is through Facebook. [a link](https://www.facebook.com/habib.hadweh/)
 
-nano README.md
